@@ -1,3 +1,4 @@
+@media(max-width:576px){
 .navbarScroll {
     background-color: rgb(236, 215, 245);
 }
@@ -153,4 +154,5 @@ span{
 #footer {
     background-color: #2c2b2b;
     text-align: center;
+}
 }
