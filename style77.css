@@ -123,11 +123,7 @@ span{
 }
 
 /* services section css */
-.services {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-}
+
 .servicesText.card {
     height: 280px;
     cursor: pointer;
