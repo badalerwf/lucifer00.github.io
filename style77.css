@@ -1,4 +1,4 @@
-@media(max-width:993px){
+
 .navbarScroll {
     background-color: rgb(236, 215, 245);
 }
@@ -55,6 +55,7 @@ nav ul li a{
 nav ul li a:hover{
     color: aquamarine;
 }
+@media(max-width:576px){
 .dete{
     margin-left: 8%;
     margin-top: 15%;
